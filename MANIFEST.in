@@ -1,0 +1,2 @@
+include GasSensor/config.yaml
+recursive-include GasSensor/static *
